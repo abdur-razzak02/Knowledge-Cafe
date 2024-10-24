@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "cover_photo": "https://images.unsplash.com/photo-1473163928189-364b2c4e1135?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dHJhdmVsfGVufDB8MHwwfHx8Mg%3D%3D",
+        "author_image": "https://img.freepik.com/free-photo/man-drinks-whiskey-businessman-reads-documents-director-shirt-suspenders_1157-43470.jpg?semt=ais_hybrid",
+        "author_name": "John Doe",
+        "post_date": "2024-10-01",
+        "reading_time": 5,
+        "title": "Exploring the Unknown",
+        "related_tag": ["adventure", "travel"]
+    },
+    {
+        "id": 2,
+        "cover_photo": "https://images.unsplash.com/photo-1466220549276-aef9ce186540?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29va2luZ3xlbnwwfDB8MHx8fDI%3D",
+        "author_image": "https://img.freepik.com/free-photo/medium-shot-woman-with-diary-book_23-2150522459.jpg?semt=ais_hybrid",
+        "author_name": "Jane Smith",
+        "post_date": "2024-10-05",
+        "reading_time": 8,
+        "title": "The Art of Cooking",
+        "related_tag": ["food", "cooking"]
+    },
+    {
+        "id": 3,
+        "cover_photo": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fHRlY2hub2xvZ3l8ZW58MHwwfDB8fHwy",
+        "author_image": "https://img.freepik.com/free-photo/front-view-serious-office-worker-sitting-table_140725-138151.jpg?semt=ais_hybrid",
+        "author_name": "Alice Johnson",
+        "post_date": "2024-10-10",
+        "reading_time": 6,
+        "title": "Tech Innovations in 2024",
+        "related_tag": ["technology", "innovation"]
+    },
+    {
+        "id": 4,
+        "cover_photo": "https://images.unsplash.com/photo-1502920514313-52581002a659?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRyYXZlbHxlbnwwfDB8MHx8fDI%3D",
+        "author_image": "https://img.freepik.com/free-photo/male-traveler-montenegro-outdoors_23-2149040851.jpg?semt=ais_hybrid",
+        "author_name": "Robert Brown",
+        "post_date": "2024-10-12",
+        "reading_time": 7,
+        "title": "Traveling on a Budget",
+        "related_tag": ["travel", "budget"]
+    },
+    {
+        "id": 5,
+        "cover_photo": "https://images.unsplash.com/photo-1560306990-18fa759c8713?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fG1lZGljYWwlMjBlcXVpcG1lbnRzfGVufDB8MHwwfHx8Mg%3D%3D",
+        "author_image": "https://img.freepik.com/free-photo/portrait-friendly-male-doctor-dressed-uniform_171337-105.jpg?semt=ais_hybrid",
+        "author_name": "Emily Davis",
+        "post_date": "2024-10-15",
+        "reading_time": 4,
+        "title": "Mindfulness and Meditation",
+        "related_tag": ["health", "mindfulness"]
+    },
+    {
+        "id": 6,
+        "cover_photo": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZW52aXJvbm1lbnR8ZW58MHwwfDB8fHwy",
+        "author_image": "https://img.freepik.com/free-photo/young-man-as-dorian-gray-dark-background-retro-style-comparison-eras-concept_155003-14851.jpg?semt=ais_hybrid",
+        "author_name": "Michael Wilson",
+        "post_date": "2024-10-20",
+        "reading_time": 9,
+        "title": "The Future of Renewable Energy",
+        "related_tag": ["environment", "renewable"]
+    },
+    {
+        "id": 7,
+        "cover_photo": "https://images.unsplash.com/photo-1485125639709-a60c3a500bf1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZmFzaGlvbnxlbnwwfDB8MHx8fDI%3D",
+        "author_image": "https://img.freepik.com/free-photo/brunette-girl-holding-professional-dslr-camera-thinking_114579-64246.jpg?semt=ais_hybrid",
+        "author_name": "Laura Garcia",
+        "post_date": "2024-10-22",
+        "reading_time": 5,
+        "title": "Fashion Trends to Watch",
+        "related_tag": ["fashion", "style"]
+    },
+    {
+        "id": 8,
+        "cover_photo": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGZpdG5lc3N8ZW58MHwwfDB8fHwy",
+        "author_image": "https://img.freepik.com/free-photo/full-body-portrait-athletic-shirtless-male-doing-biceps-workouts-with-dumbbells-gym-club_613910-1176.jpg?semt=ais_hybrid",
+        "author_name": "David Martinez",
+        "post_date": "2024-10-23",
+        "reading_time": 6,
+        "title": "Fitness Tips for Beginners",
+        "related_tag": ["fitness", "health"]
+    },
+    {
+        "id": 9,
+        "cover_photo": "https://images.unsplash.com/photo-1640161704729-cbe966a08476?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZmluYW5jZXxlbnwwfDB8MHx8fDI%3D",
+        "author_image": "https://images.unsplash.com/photo-1641179584570-d4232b1a2cdc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGZpbmFuY2V8ZW58MHwwfDB8fHwy",
+        "author_name": "Sarah Lee",
+        "post_date": "2024-10-24",
+        "reading_time": 4,
+        "title": "Understanding Cryptocurrency",
+        "related_tag": ["finance", "cryptocurrency"]
+    },
+    {
+        "id": 10,
+        "cover_photo": "https://images.unsplash.com/photo-1668984862920-1957a901a173?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fHRlY2hub2xvZ3klMjBiYWNrZ3JvdW5kfGVufDB8MHwwfHx8Mg%3D%3D",
+        "author_image": "https://img.freepik.com/free-photo/specialist-pc-desk-high-tech-establishment-overseeing-server-rows_482257-88124.jpg?semt=ais_hybrid",
+        "author_name": "James Wilson",
+        "post_date": "2024-10-25",
+        "reading_time": 7,
+        "title": "The Impact of AI on Society",
+        "related_tag": ["ai", "technology"]
+    }
+]
