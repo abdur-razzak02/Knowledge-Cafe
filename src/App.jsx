@@ -13,8 +13,10 @@ function App() {
     setBookmarks(newBookmarks)
   };
 
-  const handleMarkAsRead = time => {
+  const handleMarkAsRead = (id, time) => {
     setReadingTime(readingTime + time)
+    const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id);
+    setBookmarks(remainingBookmarks)
   }
 
   return (
@@ -22,8 +24,11 @@ function App() {
       <div className="container mx-auto">
         <Header></Header>
         <main className="px-3 lg:px-0 sm:flex sm:gap-5">
-          <Blogs handleBookmark={handleBookmark} handleMarkAsRead={handleMarkAsRead}></Blogs>
-          <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
+          <Blogs
+            handleBookmark={handleBookmark} handleMarkAsRead={handleMarkAsRead}></Blogs>
+          <Bookmarks
+            bookmarks={bookmarks}
+            readingTime={readingTime}></Bookmarks>
         </main>
       </div>
     </>

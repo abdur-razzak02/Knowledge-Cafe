@@ -16,7 +16,7 @@ const Blogs = ({handleBookmark,handleMarkAsRead}) => {
         <div className="sm:w-full">
             <h2 className="mb-8 text-2xl font-semibold">Total Blog: { blogs.length}</h2>
             {
-                blogs.map(blog => <Blog key={blog.id} blog={blog} handleBookmark={handleBookmark} handleMarkAsRead={handleMarkAsRead}></Blog>)
+                blogs.map((blog) => <Blog key={blog.id} blog={blog} handleBookmark={handleBookmark} handleMarkAsRead={handleMarkAsRead}></Blog>)
             }
         </div>
     );
