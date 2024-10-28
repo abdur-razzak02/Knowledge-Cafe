@@ -9,4 +9,4 @@ Note: There is no details blog texts.
 Make it just for learning purpose.
 
 ## Design
-![Design](https://i.ibb.co.com/XtdPS7h/knowledge-cafe-blogposts-netlify-app.png)
+![Design](https://ibb.co.com/ZxwrWBn)
